@@ -1,0 +1,18 @@
+CCTP - SWAIBA FAISAL 21006278
+
+After making changes in the inspector, it is recommended save and observe changes in the build of the project :).
+
+CONTROLS: 
+
+Debug controls for both scenes (keyboard):
+
+Pause = P
+Reload Scene = R
+Quit = Q
+
+Controls for Playground Scene (keyboard):
+
+Move = WASD
+Jump = Space
+Swing start = Left mouse button click
+Swing end = Left mouse button release
